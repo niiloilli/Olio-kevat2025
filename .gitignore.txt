@@ -1,2 +1,4 @@
 vkteht1/build
 vkteht1/*.user
+vkteht2/build
+vkteht2/*.user
