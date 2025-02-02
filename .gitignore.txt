@@ -4,3 +4,5 @@ vkteht2/build
 vkteht2/*.user
 vkteht3/build
 vkteht3/*.user
+vkteht4/build
+vkteht4/*.user
