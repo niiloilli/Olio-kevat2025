@@ -6,3 +6,5 @@ vkteht3/build
 vkteht3/*.user
 vkteht4/build
 vkteht4/*.user
+vkteht5/build
+vkteht5/*.user
