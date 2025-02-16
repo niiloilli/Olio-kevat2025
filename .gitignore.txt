@@ -8,3 +8,5 @@ vkteht4/build
 vkteht4/*.user
 vkteht5/build
 vkteht5/*.user
+vkteht6/build
+vkteht6/*.user
